@@ -1,3 +1,9 @@
+/*
+    Nombre del autor: Benjamin Ramirez Bolaños
+    Objetivo del Archivo: Se establecen los metodos para cuando se llame a 
+    las funcionalidades de videojuegos
+    Fecha: 7/12/2020
+*/
 var express = require('express');
 
 var ruta = express.Router();
